@@ -29,7 +29,7 @@ The following **optional** features are implemented:
 
 - [ X] User can select number of pairs to play with (at least 2 unique values like 2 and 4).
   * (Hint: user Picker)
-- [ X] App allows for user to scroll to see pairs out of view.
+- [ ] App allows for user to scroll to see pairs out of view.
   * (Hint: Use a Scrollview)
 - [X ] Add any flavor you’d like to your UI with colored buttons or backgrounds, unique cards, etc. 
   * Enhance the visual appeal of the app with colored buttons, backgrounds, or unique card designs.
